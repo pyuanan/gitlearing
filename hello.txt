@@ -1,1 +1,2 @@
-hello world
+hello world世界你好呀
+再见
